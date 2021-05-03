@@ -4,5 +4,5 @@
     [Name] VARCHAR(50) NULL, 
     [Cost] INT NULL, 
     [Color] NVARCHAR(50) NULL, 
-    [Quantity] INT NULL
+    [Quantity1] INT NULL
 )
